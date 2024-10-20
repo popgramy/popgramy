@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...open world projects....
 - 📫 How to reach me ...facebook{wisdom wisdom},whatsapp{+2348103054306}
 - 😄 Pronouns: ...he
-- ⚡ Fun fact: ...aspiring to be the biggest software engineering in AFRICA.
+- ⚡ Fun fact: ...aspiring to be the biggest software engineer in AFRICA.
 
 <!---
 popgramy/popgramy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
